@@ -26,3 +26,18 @@ chmod +x scripts/qa-checker.sh
 Output: timestamped report saved to /reports/
 
 ## Project Structure
+qa-practice/
+├── scripts/        # Bash scripts
+├── logs/           # Application logs
+├── reports/        # Generated check reports
+└── .env            # Environment config (not committed)
+
+## Skills Demonstrated
+- Bash scripting: functions, loops, conditionals
+- File permissions and environment variables
+- System monitoring with free and df
+- Log analysis with grep and find
+- Git version control
+
+## Author
+Mohamed Ezzo — QA Engineer | DevOps for QA Journey
