@@ -13,4 +13,4 @@ jobs:
      - name: Chekout
        uses: actions/checkout@v7
      - name: Unit test
-       run: ./scripts/test-runner.sh
+       run: bash ./scripts/test-runner.sh
