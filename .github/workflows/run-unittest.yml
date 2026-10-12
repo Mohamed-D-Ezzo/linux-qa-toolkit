@@ -6,7 +6,7 @@ on:
    'feature/*'
 
 jobs:
- run unit test:
+ run-unit-test:
   runs-on: ubuntu-latest
 
   steps:
