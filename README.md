@@ -1,7 +1,7 @@
 # 🐼 linux-qa-toolkit
 
 A 14-day Linux learning journey built specifically for QA Automation Engineers.
-Every script was written from scratch — no copy-paste, all real QA use cases.
+Every script was written from scratch — no copy-paste, all real QA use cases..
 
 Built by [Mohamed Ezzo](https://github.com/Mohamed-D-Ezzo) — QA Automation Engineer
 
